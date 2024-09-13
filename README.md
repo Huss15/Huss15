@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Huss15
 - 👀 I’m interested in programming, football and Movies and the other stuff
-- 🌱 I’m currently learning python and c++
 - 📫 How to reach me insta: @huss_os.1509
